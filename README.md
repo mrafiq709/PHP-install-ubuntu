@@ -12,3 +12,5 @@ command:
     apachectl -t
     sudo service apache2 restart
     ls /etc/apache2/mods-enabled/php*
+
+Refernces: https://www.liquidweb.com/kb/install-php-7-2-ubuntu-16-04/
