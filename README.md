@@ -1,14 +1,9 @@
 # PHP-install-ubuntu
 php install ubuntu
-
-command:
-----------
-    sudo apt-get update
-    sudo apt-get install php7.2
-    php -v
     
 Install PHP 7.3:
 ---------------------
+    sudo apt-get update
     sudo apt install php7.3
     
     sudo apt install php7.3-fpm php7.3-bcmath php7.3-cgi php7.3-cli php7.3-common php7.3-curl php7.3-dba php7.3-dev php7.3-json php7.3-mbstring php7.3-mysql php7.3-opcache php7.3-xml php7.3-xsl php7.3-zip libphp7.3-embed libapache2-mod-php7.3
@@ -35,7 +30,7 @@ Install PHP 7.3:
         
      - Command Line:
      ```
-     sudo update-alternatives --set php /usr/bin/php7.1
+     sudo update-alternatives --set php /usr/bin/php7.3
      ```
 
 Bellow Command is After instalation Apache Server(If need):
