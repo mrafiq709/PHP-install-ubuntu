@@ -42,4 +42,6 @@ Bellow Command is After instalation Apache Server(If need):
     sudo service apache2 restart
     ls /etc/apache2/mods-enabled/php*
 
-Refernces: https://www.liquidweb.com/kb/install-php-7-2-ubuntu-16-04/
+Refernces: 
+- https://www.liquidweb.com/kb/install-php-7-2-ubuntu-16-04/
+- https://linuxbeast.com/tutorials/aws/how-to-install-php-on-ubuntu-server/
