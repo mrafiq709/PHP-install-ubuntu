@@ -34,9 +34,9 @@ Install PHP 7.3:
      ```
         
      - Command Line:
-       ```
-       sudo update-alternatives --set php /usr/bin/php7.1
-       ```
+     ```
+     sudo update-alternatives --set php /usr/bin/php7.1
+     ```
 
 Bellow Command is After instalation Apache Server(If need):
 -----------------------------------------------------------
