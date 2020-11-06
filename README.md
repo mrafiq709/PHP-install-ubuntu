@@ -25,15 +25,18 @@ Install PHP 7.3:
   - Interactive switching mode:
      ```sudo update-alternatives --config php```
   - Manual Switching:
-     Apache
+     - Apache
      ```
      sudo a2dismod php5.6
      sudo a2enmod php7.3
      sudo service apache2 restart
-        ```
+     
+     ```
         
-   Command Line:
-    sudo update-alternatives --set php /usr/bin/php7.1
+     - Command Line:
+       ```
+       sudo update-alternatives --set php /usr/bin/php7.1
+       ```
 
 Bellow Command is After instalation Apache Server(If need):
 -----------------------------------------------------------
