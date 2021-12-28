@@ -3,6 +3,7 @@ php install ubuntu
     
 Install PHP 7.3:
 ---------------------
+    sudo add-apt-repository ppa:ondrej/php
     sudo apt-get update
     sudo apt install php7.3
     
